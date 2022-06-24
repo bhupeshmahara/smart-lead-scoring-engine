@@ -1,4 +1,3 @@
-# smart-lead-scoring-engine
 # JOB-A-THON - June 2022
 
 ## Smart Lead Scoring Engine
