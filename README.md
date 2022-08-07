@@ -1,4 +1,4 @@
-# JOB-A-THON - June 2022
+# Analytics Vidhya JOB-A-THON - June 2022
 
 ## Smart Lead Scoring Engine
 
